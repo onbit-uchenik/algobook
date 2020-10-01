@@ -18,7 +18,7 @@ You can get your own fork/copy of [Algo_Ds_Notes](https://github.com/jainaman224
 You need to clone (download) it to local machine using
 
 ```sh
-$ git clone https://github.com/Your_Username/Algo_Ds_Notes.git
+$ git clone https://github.com/Your_Username/algobook.git
 ```
 
 > This makes a local copy of repository in your machine.
@@ -56,8 +56,8 @@ See the changes using
 $ git remote -v
 origin    https://github.com/Your_Username/algobook.git (fetch)
 origin    https://github.com/Your_Username/algobook.git (push)
-upstream  https://github.com/jainaman224/algobook.git (fetch)
-upstream  https://github.com/jainaman224/algobook.git (push)
+upstream  https://github.com/onbitSyn/algobook.git (fetch)
+upstream  https://github.com/onbitSyn/algobook.git (push)
 ```
 
 ### 4. Sync it :recycle:
